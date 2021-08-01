@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Kotlin Basics</string>
+    <string name="welcome_text">Hello Kotlin!</string>
+    <string name="footer_text">By Harshavardhan :)</string>
 </resources>
